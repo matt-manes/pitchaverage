@@ -1,0 +1,7 @@
+__pycache__
+.coverage
+.vscode
+.pytest_cache
+*.db
+*.log
+json_error.txt
